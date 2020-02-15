@@ -1,0 +1,7 @@
+C:\Users\Muhammad Yasir Javed\source\repos\Question1\Question7\bin\Debug\Question7.exe.config
+C:\Users\Muhammad Yasir Javed\source\repos\Question1\Question7\bin\Debug\Question7.exe
+C:\Users\Muhammad Yasir Javed\source\repos\Question1\Question7\bin\Debug\Question7.pdb
+C:\Users\Muhammad Yasir Javed\source\repos\Question1\Question7\obj\Debug\Question7.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Yasir Javed\source\repos\Question1\Question7\obj\Debug\Question7.exe
+C:\Users\Muhammad Yasir Javed\source\repos\Question1\Question7\obj\Debug\Question7.pdb
+C:\Users\Muhammad Yasir Javed\source\repos\Question1\Question7\obj\Debug\Question7.csprojAssemblyReference.cache
